@@ -5,4 +5,7 @@
 1. **Clone the repository:**
    ```sh
    git clone <repository-url>
-   cd flask_app
+
+2. install requirements.txt
+
+3. run-> python app.py
